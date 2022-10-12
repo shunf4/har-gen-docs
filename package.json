@@ -1,0 +1,28 @@
+{
+  "name": "har-gen-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@types/command-line-args": "^5.2.0",
+    "@types/httpsnippet": "^1.23.1",
+    "@types/jsdom": "^20.0.0",
+    "@types/prettier": "^2.7.1",
+    "cheerio": "^1.0.0-rc.12",
+    "command-line-args": "^5.2.1",
+    "httpsnippet": "^2.0.0",
+    "jsdom": "^20.0.1",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "@types/har-format": "^1.2.9",
+    "@types/node": "^18.8.4",
+    "typescript": "^4.8.4"
+  }
+}
